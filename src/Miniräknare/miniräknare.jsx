@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import React from 'react';
+import './miniräknareStyling.css';
+
+
 
 const App = () => {
 
